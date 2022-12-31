@@ -20,7 +20,7 @@ package es.angelillo15.glow.packets.version;
 
 import com.comphenix.protocol.wrappers.WrappedChatComponent;
 import org.bukkit.ChatColor;
-importes.angelillo15.glow.packets.AbstractWrapperPlayServerScoreboardTeam;
+import es.angelillo15.glow.packets.AbstractWrapperPlayServerScoreboardTeam;
 
 import java.util.Optional;
 
